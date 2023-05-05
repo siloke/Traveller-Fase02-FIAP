@@ -1,0 +1,36 @@
+:root {
+  --base1: #FFFFFF;
+  --base2: #FAF9F6;
+  --base3: #F2F0E9;
+  --base4: #DEDCD3;
+  --base5: #505050;
+  --base6: #2D2D2D;
+  --base7: #212121;
+  --green: #008F66;
+  --greenHover: #00B884;
+  --redHover: #E54C4C;
+  --red: #DB0618;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  border: none;
+  text-decoration: none;
+  border-radius: 0;
+  background: transparent;
+}
+
+body {
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+  background: #FAF9F6;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 24px;
+  width: 100%;
+  max-width: 1348px;
+}

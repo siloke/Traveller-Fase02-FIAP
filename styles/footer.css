@@ -1,0 +1,37 @@
+footer {
+  color: #000000;
+  ;
+  background-color: #DEDCD3;
+  ;
+}
+
+footer a {
+  color: #000000;
+}
+
+.footer-content {
+  width: 100%;
+  max-width: 400px;
+  height: 45vh;
+  padding: 40px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.footer-content h3 {
+  font-size: 16px;
+}
+
+.footer-content p {
+  font-size: 14px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+.footer-links a{
+  text-decoration: underline;
+}
